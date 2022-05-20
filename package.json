@@ -10,7 +10,6 @@
   },
   "author": "Benjamin Morrison <newben.hd@gmail.com>",
   "license": "MIT",
-  "private": "false",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.(ts|js)\"",
